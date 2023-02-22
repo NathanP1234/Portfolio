@@ -1,0 +1,17 @@
+html {
+    background-color: bisque;
+}
+#bar {
+    background-color: aquamarine;
+    color: crimson;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a {
+    text-align: center;
+    color: black;
+}
